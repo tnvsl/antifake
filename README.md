@@ -1,2 +1,2 @@
 # antifake
-A fact-checker application
+A fact-checker application in development
